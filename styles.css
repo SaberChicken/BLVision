@@ -237,6 +237,10 @@
     padding: 2rem;
 }
 
+.SurCaption{
+    height: 28px;
+} 
+
 .Rectangle10{   
     background: rgba(72, 154, 208, 0.10);
     padding-top: 1rem;
